@@ -10,6 +10,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-image: linear-gradient(to bottom right, red, yellow);
     clip-path: polygon(30% 0%, 70% 0%, 100% 0, 100% 95%, 61% 100%, 26% 94%, 0 100%, 0 1%);
 
 }
